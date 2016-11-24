@@ -1,0 +1,9 @@
+int ledPin1 = 2;
+
+void Setup() {
+
+}
+
+void Loop() {
+
+}
